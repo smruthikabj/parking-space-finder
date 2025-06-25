@@ -1,0 +1,109 @@
+<resources>
+    <string name="app_name">Parking App</string>
+    <string name="Sharpef">SharedPreference</string>
+
+
+<string-array name="car_models_array">
+    <item>Select the model</item>
+        <item>Acura MDX</item>
+        <item>Acura RDX</item>
+        <item>Audi A4</item>
+        <item>Audi Q5</item>
+        <item>BMW 3 Series</item>
+        <item>BMW X5</item>
+        <item>Cadillac Escalade</item>
+        <item>Chevrolet Camaro</item>
+        <item>Chevrolet Corvette</item>
+        <item>Dodge Charger</item>
+        <item>Ferrari 488 GTB</item>
+        <item>Ford F-150</item>
+        <item>Ford Mustang</item>
+        <item>Honda Accord</item>
+        <item>Honda Civic</item>
+        <item>Hyundai Elantra</item>
+        <item>Hyundai Sonata</item>
+        <item>Infiniti Q50</item>
+        <item>Jaguar F-Type</item>
+        <item>Jeep Wrangler</item>
+        <item>Kia Optima</item>
+        <item>Lamborghini Aventador</item>
+        <item>Lexus RX</item>
+        <item>Lincoln Navigator</item>
+        <item>Maserati GranTurismo</item>
+        <item>Mazda CX-5</item>
+        <item>Mercedes-Benz E-Class</item>
+        <item>Mercedes-Benz GLE</item>
+        <item>Nissan Altima</item>
+        <item>Nissan GT-R</item>
+        <item>Porsche 911</item>
+        <item>Porsche Cayenne</item>
+        <item>Rolls-Royce Phantom</item>
+        <item>Subaru Outback</item>
+        <item>Tesla Model S</item>
+        <item>Toyota Camry</item>
+        <item>Toyota RAV4</item>
+        <item>Volkswagen Golf</item>
+        <item>Volkswagen Passat</item>
+        <item>Volvo XC90</item>
+        <item>Alfa Romeo Giulia</item>
+        <item>Aston Martin DB11</item>
+        <item>Bentley Continental GT</item>
+        <item>Bugatti Chiron</item>
+        <item>Cadillac CT5</item>
+        <item>Chrysler 300</item>
+        <item>Dodge Challenger</item>
+        <item>Fiat 500</item>
+        <item>Genesis G80</item>
+        <item>Infiniti QX60</item>
+        <item>Jaguar I-PACE</item>
+        <item>Kia Soul</item>
+        <item>Lamborghini Huracan</item>
+        <item>Lexus IS</item>
+        <item>Mazda MX-5 Miata</item>
+        <item>Mercedes-Benz C-Class</item>
+        <item>Nissan Rogue</item>
+        <item>Porsche Panamera</item>
+        <item>Subaru Impreza</item>
+        <item>Toyota Highlander</item>
+        <item>Volkswagen Tiguan</item>
+        <item>Volvo S60</item>
+        <item>Acura TLX</item>
+        <item>Aston Martin Vantage</item>
+        <item>Audi Q7</item>
+        <item>Bentley Bentayga</item>
+        <item>Chevrolet Equinox</item>
+        <item>Dodge Durango</item>
+        <item>Ford Escape</item>
+        <item>Honda CR-V</item>
+        <item>Hyundai Tucson</item>
+        <item>Jeep Grand Cherokee</item>
+        <item>Lexus NX</item>
+        <item>Lincoln Aviator</item>
+        <item>Maserati Levante</item>
+        <item>Mazda3</item>
+        <item>Mercedes-Benz GLC</item>
+        <item>Nissan Sentra</item>
+        <item>Porsche Macan</item>
+        <item>Subaru Forester</item>
+        <item>Toyota Prius</item>
+        <item>Volkswagen Jetta</item>
+        <item>Volvo XC60</item>
+        <item>Alfa Romeo Stelvio</item>
+        <item>Audi A6</item>
+        <item>BMW X3</item>
+        <item>Cadillac XT5</item>
+        <item>Chrysler Pacifica</item>
+        <item>Ford Edge</item>
+        <item>Honda Accord Hybrid</item>
+        <item>Hyundai Santa Fe</item>
+        <item>Infiniti QX80</item>
+        <item>Jeep Cherokee</item>
+        <item>Kia Seltos</item>
+        <item>Lamborghini Urus</item>
+        <item>Land Rover Discovery</item>
+        <item>Others</item>
+
+</string-array>
+
+
+</resources>
